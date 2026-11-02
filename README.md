@@ -112,7 +112,7 @@ How to Run
 
 Clone this repository:
 
-git clone https://github.com/sumit0001/Titanic-Survival-Prediction.git
+git clone https://github.com/sumit7859/Titanic-Survival-Prediction.git
 
 
 Open the project folder in VS Code.
