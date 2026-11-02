@@ -34,7 +34,7 @@ Prediction
 
 Dataset
 The project uses the Titanic dataset.
-Important features include:
+Important Features
 
 
 
@@ -61,7 +61,7 @@ Passenger name
 
 
 Sex
-Passenger gender
+Passenger sex
 
 
 Age
@@ -98,33 +98,27 @@ Titanic-Survival-Prediction/
 │
 ├── train.csv
 ├── test.csv
+├── Titanic.py
 ├── Titanic_Survival_Prediction.ipynb
 ├── README.md
+├── requirements.txt
 └── .gitignore
 
 Installation
 Install the required Python libraries:
-pip install numpy pandas matplotlib seaborn scikit-learn
+pip install numpy pandas matplotlib seaborn scikit-learn joblib
 
 How to Run
 
 Clone this repository:
 
-git clone https://github.com/YOUR_USERNAME/Titanic-Survival-Prediction.git
-
+git clone https://github.com/sumit0001/Titanic-Survival-Prediction.git
 
 
 Open the project folder in VS Code.
-
-
 Install the required libraries.
-
-
 Open the Jupyter Notebook or Python file.
-
-
 Run the code to perform data analysis, train the model, and generate predictions.
-
 
 Machine Learning Workflow
 
